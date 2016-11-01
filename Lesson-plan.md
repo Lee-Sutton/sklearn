@@ -16,3 +16,13 @@
 - Multi-variable regression
 - Go up to more variables
 
+## Classifcation
+- optional if time
+
+## Description
+- High level overview of what machine learning is.
+- Overview of regression and how it works
+- Build your first regression model in python with sci-kit learn
+- Learn about what is available to you
+- understand considerations to fine tune your model
+- If time classification
