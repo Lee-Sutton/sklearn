@@ -4,7 +4,7 @@
 - Regression
 - Classification
 - Unsupervised learning
-- Jobs, kaggle competitions
+- Jobs, kaggle competitions, etc.
 
 ### First lesson - Regression
 - Quizzes on what type of problem this is
