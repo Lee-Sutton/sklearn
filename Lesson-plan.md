@@ -4,17 +4,15 @@
 - Regression
 - Classification
 - Unsupervised learning
-- with visuals
+- Jobs, kaggle competitions
 
 ### First lesson - Regression
 - Quizzes on what type of problem this is
 - training vs. testing data
-- Overfitting - Show visuals, or we could fabricate a demo with a sine wave
-- step size
-- Cross validation
+- Overfitting - Show visuals, or we could fabricate a demo with a sine wave - Jordan
+- step size - Demo/Visual?
+- Cross validation - Scikit learn libraries
 - Single variable regression - Maybe include demo of overfitting
 - Multi-variable regression
-- Go up to 10 variables 
+- Go up to more variables
 
-### Classification
-- Step size
