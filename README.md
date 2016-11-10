@@ -13,5 +13,8 @@ Code:
 Data:
 
 Lesson Plan:
+- Lesson Plan will be guided by the content on the PPT. 
+- Etherpad will also be used to help people find important links.
+- https://etherpad.wikimedia.org/p/2016-12-06-ML
 
 Future Lessons:
