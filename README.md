@@ -6,7 +6,7 @@ This repository contains the code, data, and lesson plan for the Intro to Machin
 
 In this introductory look at Machine Learning  you will learn about the different types of Machine Learning models and build your first regression model. You'll learn about some of the considerations to fine-tune your model and improve convergence. We'll also show you some great online resources to learn about new ML models and get great example code for your own projects.
 
-*This workshop is intended for users who are new to Machine Learning. Users should already have installed Python 2 or Python 3 before this session.*
+*This workshop is intended for users who are new to Machine Learning. Users should already have installed Python 2 or Python 3 before this session. We reccomend using Anaconda 2 or 3.*
 
 
 ## Lesson Plan for December 6 2016 session
@@ -14,7 +14,7 @@ In this introductory look at Machine Learning  you will learn about the differen
 - Etherpad will also be used to help people find important links. https://etherpad.wikimedia.org/p/2016-12-06-ML
 
 ### Lesson 1: Regression
-- Starter file can be found here: 
+- Starter file can be found here:https://github.com/Lee-Sutton/sklearn/blob/master/Linear-Regression-QUICKSTART.ipynb
 
 ### Lesson 2:
 - Starter file: https://github.com/Lee-Sutton/sklearn/blob/master/Overfitting-Quickstart.ipynb
@@ -46,5 +46,15 @@ https://www2.cs.sfu.ca/~mori/courses/cmpt726/
 Several courses offered in this program help you to get into ML as well. Apala Guha is teaching CMPT 733: Programming For Big Data 2
 
 https://portal.cs.sfu.ca/portal/outlines/1171-CMPT-733-G100/
+
+#### Some excellent MOOCS
+Udacity's intro to machine learning course uses python with scikit-learn
+and it's free!
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+
+Coursera's Intro to machine learning with Andrew Ng. This course goes
+deeper into the math behind these algorithms and uses matlab.
+https://www.coursera.org/learn/machine-learning
+
 
 
