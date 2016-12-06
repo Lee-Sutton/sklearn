@@ -14,7 +14,7 @@ In this introductory look at Machine Learning  you will learn about the differen
 - Etherpad will also be used to help people find important links. https://etherpad.wikimedia.org/p/2016-12-06-ML
 
 ### Lesson 1: Regression
-- Starter file can be found here: 
+- Starter file can be found here: https://github.com/Lee-Sutton/sklearn/blob/master/Overfitting-Quickstart.ipynb
 
 ### Lesson 2:
 - Starter file: 
