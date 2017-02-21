@@ -19,6 +19,13 @@ In this introductory look at Machine Learning  you will learn about the differen
 ### Lesson 2:
 - Starter file: https://github.com/Lee-Sutton/sklearn/blob/master/Overfitting-Quickstart.ipynb
 
+## Lesson Plan for February 21st, 2017
+- A ppt is supplied in the classification folder with the lesson plan
+
+### Classification:
+- In this lesson I will give a brief introduction to machine learning and classification
+- We will look classification using logistic regression and support vector machines
+
 
 ## Future Lessons:
 Send us an email at lmsutton@sfu.ca or jdlui@sfu.ca if you are interested in future sessions!
